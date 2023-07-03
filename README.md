@@ -8,8 +8,5 @@ My first ever software project. Building a simple responsive portfolio for mysel
 # Languages Used
 HTML, CSS and Javascript
 
-# To Do
-- Add Skills section
-- Add Projects done
 
 
